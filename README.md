@@ -1,6 +1,6 @@
 <p align="center">
       <img style="width:200px; height: 200px;"  src="https://telegra.ph/file/a852109ec7f58c591c449.jpg"></p>
-<h1 align="center"><b>Meliodas Robot ☠️</b></h1>
+<h1 align="center"><b>Meliodas Robot 👾</b></h1>
 <h2 align="center"><b>The Telegram Bot to manage and protect groups</b></h2>
 <h4 align="center">Meliodas Robot  simplifies the management, administration and security of your group</h4>
 
