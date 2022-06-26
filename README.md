@@ -70,4 +70,4 @@ Meliodas is licensed under [GNU Affero General Public License](https://www.gnu.o
 ## Special credits
 Special thanks to these amazing projects/people which/who help power Meliodas bot
 
-# Tanks to Szrosebot.
+# Tanks to Szrosebot .
