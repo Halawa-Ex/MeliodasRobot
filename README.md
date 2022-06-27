@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/github/issues/Halawa-Ex/MeliodasRobot?style=for-the-badge&logo=appveyor" alt="Issues">
     <img src="https://img.shields.io/github/forks/Halawa-Ex/MeliodasRobot?style=for-the-badge&logo=appveyor" alt="Forks">
     <img src="https://img.shields.io/github/stars/Halawa-Ex/MeliodasRobot?style=for-the-badge&logo=appveyor" alt="Stars">
-    <img href="https://crowdin.com/project/MeliodasRobot" src="https://badges.crowdin.net/MeliodasRobot/localized.svg" alt="crowndin"> 
 </p>
 
 ## What is MeliodasRobot for ?
