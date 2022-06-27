@@ -62,7 +62,7 @@ Getting started protecting and managing your group better with Meliodas Bot is v
 ## Contact & Support Chats
 
  - [News Channel ](https://t.me/OfficiallMeliodas) 
- - [New  Group ] ](https://t.me/Meliodas_Support)
+ - [New  Group ](https://t.me/Meliodas_Support)
 [![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
 Meliodas is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
 
