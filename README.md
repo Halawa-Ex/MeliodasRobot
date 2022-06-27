@@ -5,13 +5,13 @@
 <h4 align="center">Meliodas Robot  simplifies the management, administration and security of your group</h4>
 
 <p align="center">
-    <img src="https://img.shields.io/github/license/Halawa-Ex/Kuntul?style=for-the-badge&logo=appveyor" alt="LICENSE">
-    <img src="https://img.shields.io/github/contributors/Halawa-Ex/Kuntul?style=for-the-badge&logo=appveyor" alt="Contributors">
-    <img src="https://img.shields.io/github/repo-size/Halawa-Ex/Kuntul?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
-    <img src="https://img.shields.io/github/issues/Halawa-Ex/Kuntul?style=for-the-badge&logo=appveyor" alt="Issues">
-    <img src="https://img.shields.io/github/forks/Halawa-Ex/Kuntul?style=for-the-badge&logo=appveyor" alt="Forks">
-    <img src="https://img.shields.io/github/stars/Halawa-Ex/Kuntul?style=for-the-badge&logo=appveyor" alt="Stars">
-    <img href="https://crowdin.com/project/szrosebot" src="https://badges.crowdin.net/szrosebot/localized.svg" alt="crowndin"> 
+    <img src="https://img.shields.io/github/license/Halawa-Ex/MeliodasRobot?style=for-the-badge&logo=appveyor" alt="LICENSE">
+    <img src="https://img.shields.io/github/contributors/Halawa-Ex/MeliodasRobot?style=for-the-badge&logo=appveyor" alt="Contributors">
+    <img src="https://img.shields.io/github/repo-size/Halawa-Ex/MeliodasRobot?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
+    <img src="https://img.shields.io/github/issues/Halawa-Ex/MeliodasRobot?style=for-the-badge&logo=appveyor" alt="Issues">
+    <img src="https://img.shields.io/github/forks/Halawa-Ex/MeliodasRobot?style=for-the-badge&logo=appveyor" alt="Forks">
+    <img src="https://img.shields.io/github/stars/Halawa-Ex/MeliodasRobot?style=for-the-badge&logo=appveyor" alt="Stars">
+    <img href="https://crowdin.com/project/szrosebot" src="https://badges.crowdin.net/MeliodasRobot/localized.svg" alt="crowndin"> 
 </p>
 
 ## What is MeliodasRobot for ?
@@ -63,7 +63,7 @@ Getting started protecting and managing your group better with Meliodas Bot is v
 ## Contact & Support Chats
 
  - [News Channel ](https://t.me/OfficiallMeliodas) 
-
+ - [New  Group ] ](https://t.me/Meliodas_Support)
 [![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
 Meliodas is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
 
