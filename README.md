@@ -57,7 +57,7 @@ Getting started protecting and managing your group better with Meliodas Bot is v
 
 ## Customize your Meliodas Bot - create a clone (Deploy Heroku)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Halawa-Ex/Kuntul)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Halawa-Ex/MeliodasRobot)
 
 ## Contact & Support Chats
 
